@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Portofolio Abiezz</title>
+  <title>Portofolio Biodata Diri</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -62,7 +62,7 @@
 </head>
 <body>
   <header>
-    <h1>Portofolio Abiezz</h1>
+    <h1>Portofolio Data Diri</h1>
   </header>
   <nav>
     <a href="#">Home</a>
@@ -71,27 +71,30 @@
     <a href="#">Contact</a>
   </nav>
   <section>
-    <h2>Welcome to my Portfolio!</h2>
-    <p>Hi there! I'm Abiezz, a web developer passionate about creating amazing websites.</p>
+    <h2>Selamat Datang Di Biodata Saya!</h2>
+    <p>Halloooo!! Nama saya Ajeng Paramitha Juman Lovista dari Kelas XI PPLG 2</p>
   </section>
   <section class="projects">
     <div class="project-card">
-      <h3 class="project-title">Project 1</h3>
-      <p class="project-description">This is a description of project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h3 class="project-title">Biodara Diri 1</h3>
+      <p class="project-description">Nama         : Ajeng Paramitha Juman Lovista
+                                    Kelas         : PPLG 2
+                                    No.Presensi   : 4
+                                    TTL           : Semarang, 29 Mei 2007
+                                    Alamat        : Jl. Hiri IV No 17, Semarang Timur
+                                    Agama         : Islam 
+                                    Jenis Kelamin : Perempuan 
+                                    Asal Sekolah  : SMKN 2 Semarang </p>
     </div>
     <div class="project-card">
-      <h3 class="project-title">Project 2</h3>
-      <p class="project-description">This is a description of project 2. Nulla nec nisi non mauris laoreet commodo id ac tellus.</p>
-    </div>
-    <div class="project-card">
-      <h3 class="project-title">Project 3</h3>
-      <p class="project-description">This is a description of project 3. Fusce vitae nulla eu tortor venenatis efficitur.</p>
+      <h3 class="project-title">Hobi </h3>
+      <p class="project-description">Hobi saya :Bernyanyi,Melukis,Mewarnai,Menggambar.</p>
     </div>
   </section>
   <section class="contact-info">
     <h2>Contact Me</h2>
-    <p>Email: abiezz@example.com</p>
-    <p>Phone: +1234567890</p>
+    <p>Email: paramithaajeng7@gmail.com</p>
+    <p>Phone: +6281215468897</p>
   </section>
 </body>
 </html>
